@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="tv_hello">Hello friend!</string>
+    <string name="tv_thank_you">Thank you for using Cốc Cốc browser</string>
+    <string name="tv_log_in">Please log in using your facebook account for</string>
+    <string name="tv_sync_bookmarks">Sync bookmarks &amp; history</string>
+    <string name="tv_sync_password">Sync passwords &amp; settings</string>
+    <string name="tv_transfer">Transfer files to mobile device</string>
+    <string name="tv_review">Review online stores</string>
+    <string name="bt_login_facebook">Log in with facebook</string>
+</resources>
